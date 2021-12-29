@@ -4,8 +4,4 @@
 
 # Electric Purple
 
-Electric Purple is a colour theme for VS Code that will brighten up your dev environment.
-
-From time to time I will publish updates which can be found in the "Changelog Section"
-
-You can share the theme with the link: https://reeceatkinson.github.io/electricpurple-website
+Electric Purple is a colour theme for VS Code that will brighten up your dev environment it can be found in the Visual Studio Marketplace by searching "Electric Purple"
